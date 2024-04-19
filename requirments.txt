@@ -1,0 +1,5 @@
+aiogram==3.4.1
+aiosqlite==0.17.0
+asyncio==3.4.3
+logging==0.5.1.2
+shutil==1.0.0 
